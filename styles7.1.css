@@ -1,0 +1,28 @@
+.container {
+  width: 80%;
+}
+.cell {
+  background-color: grey;
+  border: 1px solid black;
+}
+
+.row.blue div {
+  background-color: blue;
+}
+
+.row.orange div {
+  background-color: orange;
+}
+
+.row.green div {
+  background-color: green;
+}
+
+.row.red div {
+  background-color: red;
+}
+
+.row.div {
+  margin: 1rem;
+  height: 4rem;
+}
